@@ -2,10 +2,11 @@
 This profile will work on stock printer running Klipper - You don't need to mod anything. Just choose right settings. 
 
 # DISCLAIMER
+This is a new adventure in 3D Printing for me, as I moved from Artillery Hornet (quite modded actually) to a bit better Ender3 v3 SE.<br>
 Many thanks to everyone, who contributed, and helped me with setting profiles and tweaking stuff.<br>
 Some of my PrusaSlicer profile settings are based on Sims' work, which can be found here : https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config
 
-# The new adventure for me - Ender-3 V3 SE with some hardware mods  
+# MODS  
 One of the few mods i had done at the very beggining:  
 <ol>
   <li>Installing Klipper on my Dell Wyse 3040 terminal, and connecting it to Ender</li>
