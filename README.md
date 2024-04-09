@@ -9,8 +9,8 @@ One of the few mods i had done on the very beggining:
   <li>Reverse bowden tube and moving the filament spool out of Z-axis to the side of the printer (no more z wobble) </li>
 </ol>  
 
-# DISCLAIMER
-I used the hardware mostly from AliExpress.
+# HARDWARE
+I used the hardware mostly available online, like AliExpress or Ebay.
 <ul>
   <li>Creality K1 Hotend (bimetal heatbreak) https://aliexpress.com/item/1005005871367214.html</li>
   <li>Linear rail for X axis (choose 300mm with block) https://aliexpress.com/item/1005004226065107.html</li>
@@ -19,3 +19,7 @@ I used the hardware mostly from AliExpress.
   <li>DELL Wyse 3040 (RPi substitute) https://www.ebay.com/itm/196293394635</li>
   <li>Lightweight bed mounting replacement for fast printing https://pl.aliexpress.com/item/1005004351782508.html</li>
 </ul>
+
+# DISCLAIMER
+Many thanks to everyone, who contributed, and helped me with setting profiles and tweaking stuff.<br>
+Some of my PrusaSlicer profile settings are based on Sims' work, which can be found here : https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config
