@@ -1,5 +1,12 @@
+# ;TLDR
+This profile will work on stock printer running Klipper - You don't need to mod anything. Just choose right settings. 
+
+# DISCLAIMER
+Many thanks to everyone, who contributed, and helped me with setting profiles and tweaking stuff.<br>
+Some of my PrusaSlicer profile settings are based on Sims' work, which can be found here : https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config
+
 # The new adventure for me - Ender-3 V3 SE with some hardware mods  
-One of the few mods i had done on the very beggining:  
+One of the few mods i had done at the very beggining:  
 <ol>
   <li>Installing Klipper on my Dell Wyse 3040 terminal, and connecting it to Ender</li>
   <li>Linear rail X-axis</li>
@@ -19,7 +26,3 @@ I used the hardware mostly available online, like AliExpress or Ebay.
   <li>DELL Wyse 3040 (RPi substitute) https://www.ebay.com/itm/196293394635</li>
   <li>Lightweight bed mounting replacement for fast printing https://pl.aliexpress.com/item/1005004351782508.html</li>
 </ul>
-
-# DISCLAIMER
-Many thanks to everyone, who contributed, and helped me with setting profiles and tweaking stuff.<br>
-Some of my PrusaSlicer profile settings are based on Sims' work, which can be found here : https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config
