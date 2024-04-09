@@ -10,4 +10,12 @@ One of the few mods i had done on the very beggining:
 </ol>  
 
 # DISCLAIMER
-I used the hardware mostly from AliExpress (rails and stuff), I'll propably post links lil'bit later.  
+I used the hardware mostly from AliExpress.
+<ul>
+  <li>Creality K1 Hotend (bimetal heatbreak) https://aliexpress.com/item/1005005871367214.html</li>
+  <li>Linear rail for X axis (choose 300mm with block) https://aliexpress.com/item/1005004226065107.html</li>
+  <li>0.4 & 0.6 Hardened Steel Nozzle https://aliexpress.com/item/1005006590721284.html</li>
+  <li>PEI magnetic bed surface https://pl.aliexpress.com/item/1005005832409431.html</li>
+  <li>DELL Wyse 3040 (RPi substitute) https://www.ebay.com/itm/196293394635</li>
+  <li>Lightweight bed mounting replacement for fast printing https://pl.aliexpress.com/item/1005004351782508.html</li>
+</ul>
