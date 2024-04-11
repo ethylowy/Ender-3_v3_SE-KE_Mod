@@ -27,3 +27,9 @@ I used the hardware mostly available online, like AliExpress or Ebay.
   <li>DELL Wyse 3040 (RPi substitute) https://www.ebay.com/itm/196293394635</li>
   <li>Lightweight bed mounting replacement for fast printing https://pl.aliexpress.com/item/1005004351782508.html</li>
 </ul>
+
+# 3D PRINTABLE PARTS
+<ul>
+<li>X-axis linear mount - https://www.printables.com/pl/model/716958-linear-x-rail-mod-ender-3-v3-se/files</li>
+<li>Y-axis linear mount - https://makerworld.com/en/models/239219#profileId-255056</li>
+</ul>
