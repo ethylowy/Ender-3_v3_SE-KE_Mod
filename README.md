@@ -13,8 +13,9 @@ One of the few mods i had done at the very beggining:
   <li>Linear rail X-axis</li>
   <li>Linear rail Y-axis</li>
   <li>Ceramic hot-end swap from Creality K1 printer (so i can print TPU and other flex'es)</li>
+  <li>Oryginal Bowden inside Sprite extruder changed to Capricorn</li>
   <li>Cooling replacement for a central 40mm fan and 2nd one cooling off prints</li>
-  <li>Reverse bowden tube and moving the filament spool out of Z-axis to the side of the printer (no more z wobble) </li>
+  <li>Reverse bowden tube and moving the filament spool out of Z-axis to the side of the printer - no more Z-axis wobble nad ability to print straight from drybox.</li>
 </ol>  
 
 # HARDWARE
