@@ -1,7 +1,7 @@
 # ;TLDR
 This profile will work on stock printer running Klipper - You don't need to mod anything. Just choose right settings. 
 
-![My Ender-3 v3 SE]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg) "Ender-3 v3 SE")
+![My Ender-3 v3 SE](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg) "Ender-3 v3 SE")
 
 # DISCLAIMER
 This is a new adventure in 3D Printing for me, as I moved from Artillery Hornet (quite modded actually) to a bit better Ender3 v3 SE.<br>
