@@ -19,7 +19,7 @@ One of the few mods i had done at the very beggining:
 </ol>  
 
 # How it looks (it's dirty lol)
-![My Ender-3 v3 SE](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg))
+![My Ender-3 v3 SE](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg)
 
 # HARDWARE
 I used the hardware mostly available online, like AliExpress or Ebay.
