@@ -1,8 +1,6 @@
 # ;TLDR
 This profile will work on stock printer running Klipper - You don't need to mod anything. Just choose right settings. 
 
-![My Ender-3 v3 SE](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg) "Ender-3 v3 SE")
-
 # DISCLAIMER
 This is a new adventure in 3D Printing for me, as I moved from Artillery Hornet (quite modded actually) to a bit better Ender3 v3 SE.<br>
 Many thanks to everyone, who contributed, and helped me with setting profiles and tweaking stuff.<br>
@@ -19,6 +17,9 @@ One of the few mods i had done at the very beggining:
   <li>Cooling replacement for a central 40mm fan and 2nd one cooling off prints</li>
   <li>Reverse bowden tube and moving the filament spool out of Z-axis to the side of the printer - no more Z-axis wobble nad ability to print straight from drybox.</li>
 </ol>  
+
+# How it looks (it's dirty lol)
+![My Ender-3 v3 SE](https://github.com/ethylowy/Ender-3_v3_SE-KE_Mod/blob/main/PXL_20240509_165023473.jpg))
 
 # HARDWARE
 I used the hardware mostly available online, like AliExpress or Ebay.
